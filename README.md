@@ -29,6 +29,8 @@ A comprehensive and user-friendly student management system built with HTML, CSS
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<img width="1919" height="1036" alt="image" src="https://github.com/user-attachments/assets/447f8f28-7261-4aaf-991a-eb429eacb9c8" />
+<img width="1914" height="1033" alt="image" src="https://github.com/user-attachments/assets/94792fd8-deb8-4980-b65d-1095f46ce12c" />
 
 ## Getting Started 🚀
 1. Download the  zip file
